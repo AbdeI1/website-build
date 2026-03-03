@@ -1,3 +1,3 @@
-:HL["/_next/static/chunks/bb2532e9bd78c537.css","style"]
+:HL["/_next/static/chunks/b7d08a27dc788743.css","style"]
 :HL["/_next/static/media/3ea983dfb1f1ac79-s.p.24f2344b.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-0:{"buildId":"8w-OoMmnxTPR59yiXcDnE","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"space-invaders","paramType":null,"paramKey":"space-invaders","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
+0:{"buildId":"ngJ0sxzW8zFHJxTY1HrxD","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"space-invaders","paramType":null,"paramKey":"space-invaders","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
